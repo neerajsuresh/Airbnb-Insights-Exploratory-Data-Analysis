@@ -1,5 +1,5 @@
 # Airbnb-Insights-Exploratory-Data-Analysis
-WIn this project, we delve into the Airbnb dataset for New York City, containing 48,895 rows and 16 columns. This dataset provides valuable information about hosts, areas, room types, prices, and more, allowing us to gain insights into the world of travel and hospitality.
+In this project, we delve into the Airbnb dataset for New York City, containing 48,895 rows and 16 columns. This dataset provides valuable information about hosts, areas, room types, prices, and more, allowing us to gain insights into the world of travel and hospitality.
 
 ## Problem Statement
 The EDA aims to address several key questions:
